@@ -2,7 +2,7 @@
 Recommends songs based on real-time face emotion detection (ongoing project).
 
 # Demo inference:
-(https://github.com/BhanuNayak/song_recommender/blob/main/imgs/inference.jpg)
+![DEMO](https://github.com/BhanuNayak/song_recommender/blob/main/imgs/inference.jpg)
 
 (Still under progress)
 
