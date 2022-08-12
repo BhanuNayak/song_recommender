@@ -10,7 +10,7 @@ Recommends songs based on real-time face emotion detection (ongoing project).
 A keras model implemented from scratch is trained on the FER-2013 dataset for detecting face emotions. It can detect 6 emotions. The implementation makes use of OpenCV to get a live video feed from the web-cam of the computer and passes it through the pre-trained model (weights in the face_emotions_weights.h5 file) to detect the emotion. It is now to return the songs filtered and stored in csv files or spotify api, according to the detected emotion.
 
 # Model Architecture:
-(https://github.com/BhanuNayak/song_recommender/blob/main/imgs/model_architecture.jpg)
+![DEMO](https://github.com/BhanuNayak/song_recommender/blob/main/imgs/model_architecture.jpg)
 
 # To run the project:
 Flask: 
